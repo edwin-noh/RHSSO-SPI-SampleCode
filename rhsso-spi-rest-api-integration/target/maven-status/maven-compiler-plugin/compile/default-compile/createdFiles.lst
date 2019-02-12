@@ -1,0 +1,5 @@
+com/redhat/spi/sample/restapi/CoreUserIntegrationProviderFactory.class
+com/redhat/spi/sample/restapi/CoreInterfaceClient.class
+com/redhat/spi/sample/restapi/CoreUserIntegrationProvider.class
+com/redhat/spi/sample/restapi/User.class
+com/redhat/spi/sample/restapi/CoreUserIntegrationProvider$1.class

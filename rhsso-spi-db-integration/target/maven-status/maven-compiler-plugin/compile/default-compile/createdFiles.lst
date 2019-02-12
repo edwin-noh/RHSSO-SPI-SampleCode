@@ -1,0 +1,4 @@
+com/redhat/spi/sample/db/UserEntity.class
+com/redhat/spi/sample/db/DBUserStorageProvider.class
+com/redhat/spi/sample/db/DBUserStorageProviderFactory.class
+com/redhat/spi/sample/db/UserAdapter.class
